@@ -1,2 +1,4 @@
 # IcarusTools
-A toolset for creating Wordpress themes
+*A set of tools for creating Wordpress themes.*
+
+---
